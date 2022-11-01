@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.slider {
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    right: 50vh;
+    left: 50vh;
+}
